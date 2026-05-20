@@ -1,5 +1,3 @@
-# 4. README.md
-
 # QuickBite Database System
 
 ## Project Overview
