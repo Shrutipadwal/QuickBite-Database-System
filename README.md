@@ -70,13 +70,6 @@ The project includes a trigger that automatically updates the total order amount
 - GetOrdersByStatus()
 - GetRestaurantMenu()
 
-## Future Improvements
-
-- Add real-time order tracking
-- Implement role-based access
-- Add backup and recovery features
-- Integrate with frontend application
-
 ## Technologies Used
 
 - SQL
