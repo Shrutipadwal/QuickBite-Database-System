@@ -81,3 +81,20 @@ The project includes a trigger that automatically updates the total order amount
 
 - SQL
 - MySQL
+
+# How to Run
+1. Open MySQL Workbench or any SQL client
+2. Create the database:
+CREATE DATABASE quickbite_db;
+3. Select the database:
+USE quickbite_db;
+4. Run the schema file:
+schema.sql
+
+This will create all required tables.
+
+5. Insert sample data:
+sample_data.sql
+6. Run queries:
+queries.sql
+Verify results using SELECT queries.
